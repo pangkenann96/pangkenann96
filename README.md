@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pangkenann96
 - 👀 I’m interested in tech, education, and business
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me: issacpangkenann@gmail.com
 
